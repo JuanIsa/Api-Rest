@@ -1,0 +1,100 @@
+{
+    "alumnos":[
+    
+        { 
+            "id": 0, 
+            "nombre": "Agustín", 
+            "apellido": "Escobar", 
+            "edad": 25, 
+            "estudia": true, 
+            "src":"./img/Agustin.jpg"
+        },
+        { 
+            "id": 1, 
+            "nombre": "Alan", 
+            "apellido": "Elipe", 
+            "edad": 24, "estudia": true, 
+            "src": "./img/Alan.jpg"
+        },
+        { 
+            "id": 2, 
+            "nombre": "Axel", 
+            "apellido": "Britos", 
+            "edad": 24, 
+            "estudia": true, 
+            "src": "./img/Axel.jpg"
+        },
+        { 
+            "id": 3, 
+            "nombre": "Bruno", 
+            "apellido": "Capurro", 
+            "edad": 24, 
+            "estudia": true, 
+            "src": "./img/Bruno.jpg"
+        },
+        { 
+            "id": 4, 
+            "nombre": "Matias", 
+            "apellido": "Passarelli", 
+            "edad": 28, 
+            "estudia": true, 
+            "src": "./img/Matias.jpg"
+        },
+        { 
+            "id": 5, 
+            "nombre": "Emiliano", 
+            "apellido": "Pereyra", 
+            "edad": 24, 
+            "estudia": true, 
+            "src": "./img/Emiliano.jpg"
+        },
+        { 
+            "id": 6, 
+            "nombre": "Juan", 
+            "apellido": "Concha Vazques", 
+            "edad": 48, 
+            "estudia": true, 
+            "src": "./img/Juan.jpg"
+        },
+        { 
+            "id": 7, 
+            "nombre": "Mariano", 
+            "apellido": "Arias", 
+            "edad": 26, 
+            "estudia": true, 
+            "src": "./img/Mariano.jpg"
+        },
+        { 
+            "id": 8, 
+            "nombre": "Martin", 
+            "apellido": "De la torre", 
+            "edad": 25, 
+            "estudia": true, 
+            "src": "./img/Martin.jpg"
+        },
+        { 
+            "id": 9, 
+            "nombre": "Gonzalo", 
+            "apellido": "Gennaro", 
+            "edad": 27, 
+            "estudia": true, 
+            "src": "./img/Gonzalo.jpg"
+        },
+        { 
+            "id": 10, 
+            "nombre": "Santiago", 
+            "apellido": "Lombardo", 
+            "edad": 33, 
+            "estudia": true, 
+            "src": "./img/Santiago.jpg"
+        },
+        { 
+            "id": 11, 
+            "nombre": "Juan", 
+            "apellido": "Isa", 
+            "edad": 32, 
+            "estudia": true, 
+            "src": "./img/JuanI.jpg"
+        }
+    ]
+}

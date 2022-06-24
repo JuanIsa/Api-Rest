@@ -1,0 +1,4 @@
+#Con esto va a ignorar la carpeta de las dependencias a la hora de crear el versionado
+node_modules
+#Con esto va a ignorar el archivo específico de texto
+pasos.txt
